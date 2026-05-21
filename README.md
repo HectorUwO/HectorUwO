@@ -2,36 +2,20 @@
 
 🎓 Estudiante de Sistemas Computacionales y Derecho  
 🛡️ TSU en Seguridad Pública y Ciencias Forenses  
-💻 Interesado en desarrollo web, bases de datos, sistemas y ciberseguridad  
-⚙️ Actualmente trabajando con SQL Server, Bootstrap, Linux y proyectos web  
+💻 Interesado en desarrollo web, IA y ciberseguridad  
 
 ---
 
 ## 🚀 Tecnologías y herramientas
 
 - HTML / CSS / JavaScript
-- Bootstrap
+- PHP
+- Laravel
+- Linux
 - SQL Server
 - Git & GitHub
-- Linux
-- Python (aprendiendo)
-- Packet Tracer
-- Kali Linux
+- Python
 
----
-
-## 📌 Proyectos
-
-### Sistema de gestión
-Proyecto enfocado en administración y control de información utilizando SQL Server y tecnologías web.
-
-### Automatización y scripts
-Scripts para automatizar tareas y manejo de archivos usando Python.
-
-### Infraestructura y redes
-Prácticas de redes, direccionamiento IP y entornos Linux.
-
----
 
 ## 📊 GitHub Stats
 
@@ -43,4 +27,4 @@ Prácticas de redes, direccionamiento IP y entornos Linux.
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TUUSUARIO
+- GitHub: https://github.com/HectorUwO
