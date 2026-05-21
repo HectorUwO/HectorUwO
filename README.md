@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola, soy Héctor 👋
 
-<!--
-**HectorUwO/HectorUwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Sistemas Computacionales y Derecho  
+🛡️ TSU en Seguridad Pública y Ciencias Forenses  
+💻 Interesado en desarrollo web, bases de datos, sistemas y ciberseguridad  
+⚙️ Actualmente trabajando con SQL Server, Bootstrap, Linux y proyectos web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+- HTML / CSS / JavaScript
+- Bootstrap
+- SQL Server
+- Git & GitHub
+- Linux
+- Python (aprendiendo)
+- Packet Tracer
+- Kali Linux
+
+---
+
+## 📌 Proyectos
+
+### Sistema de gestión
+Proyecto enfocado en administración y control de información utilizando SQL Server y tecnologías web.
+
+### Automatización y scripts
+Scripts para automatizar tareas y manejo de archivos usando Python.
+
+### Infraestructura y redes
+Prácticas de redes, direccionamiento IP y entornos Linux.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TUUSUARIO
