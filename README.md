@@ -22,12 +22,47 @@ Soy **Licenciado en Sistemas Computacionales** y actualmente estudio **Derecho e
 
 ---
 
+## 🛠️ Stack Tecnológico
 
+<div align="center">
+
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,python,flask&theme=dark&perline=8" />
+
+### 🗄️ Bases de Datos & DevOps
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux&theme=dark&perline=6" />
+
+### 🔐 Seguridad & Herramientas
+<img src="https://skillicons.dev/icons?i=kali,bash,visualstudio,vscode&theme=dark&perline=6" />
+
+</div>
+
+
+
+## 🏆 Trofeos
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HectorUwO&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+---
 
 ## 📈 Actividad
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorUwO&bg_color=0d001a&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=7c3aed33&border_color=7c3aed&radius=12" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HectorUwO/HectorUwO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HectorUwO/HectorUwO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HectorUwO/HectorUwO/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" />
+</picture>
 </div>
 
 ---
