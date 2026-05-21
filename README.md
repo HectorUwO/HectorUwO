@@ -73,7 +73,7 @@ Soy **Licenciado en Sistemas Computacionales** y actualmente estudio **Derecho e
 
 | 🛡️ Ciberseguridad | ⚖️ Derecho Digital | 🤖 Inteligencia Artificial | 🌐 Desarrollo Web |
 |:-----------------:|:------------------:|:-------------------------:|:-----------------:|
-| Kali Linux, análisis forense, pen testing | Derecho informático, protección de datos | IA aplicada, automatización | Full-stack, APIs, Laravel |
+| OSINT, análisis forense, Hardening y análisis | Derecho informático, protección de datos | IA aplicada, automatización | Full-stack, APIs, Laravel |
 
 </div>
 
