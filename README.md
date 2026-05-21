@@ -1,140 +1,99 @@
 <div align="center">
 
-<!-- BANNER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Héctor%20%7C%20HectorUwO&fontSize=45&color=0:0d0d0d,100:00ff88&stroke=00ff88&strokeWidth=2&fontColor=00ff88&animation=fadeIn&desc=Security%20%7C%20Law%20%7C%20Code&descSize=18&descAlignY=75&descFontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Héctor%20Yair%20Medrano&fontSize=42&color=0:1a0533,100:7c3aed&stroke=a855f7&strokeWidth=2&fontColor=e9d5ff&animation=fadeIn&desc=Web%20Developer%20%7C%20Researcher%20%7C%20Law%20%40%20UNAM&descSize=17&descAlignY=75&descFontColor=c084fc" width="100%" />
 
-<!-- TYPING ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Estudiante+de+Sistemas+Computacionales;TSU+en+Seguridad+P%C3%BAblica+y+Ciencias+Forenses;Desarrollador+Web+en+formaci%C3%B3n;Apasionado+por+IA+%26+Ciberseguridad;%22%20La+justicia+tambi%C3%A9n+corre+en+c%C3%B3digo.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Lic.+en+Sistemas+Computacionales;Estudiante+de+Derecho+%40+UNAM;Web+Developer+%26+Researcher;TSU+en+Seguridad+P%C3%BAblica+%26+Ciencias+Forenses;Apasionado+por+IA+y+Ciberseguridad" alt="Typing" />
 
-<!-- VISITAS -->
-<img src="https://komarev.com/ghpvc/?username=HectorUwO&style=for-the-badge&color=00ff88&label=VISITAS+AL+PERFIL" />
+<br/>
 
-</div>
-
----
-
-```bash
-┌──(hector㉿portfolio)-[~]
-└─$ whoami
-```
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   Nombre    →  Héctor                                         ║
-║   Rol       →  Full-Stack Dev | Security Researcher | Jurist  ║
-║   Ubicación →  México 🇲🇽                                     ║
-║   Estado    →  [ ██████████░░░░ ] Aprendiendo constantemente  ║
-║                                                               ║
-║   "Where law ends, code begins — but I master both."         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-```bash
-└─$ cat /etc/profile.d/about.sh
-```
-
-Soy estudiante de **Ingeniería en Sistemas Computacionales** y **Derecho**, con formación como **TSU en Seguridad Pública y Ciencias Forenses**. Vivo en la intersección entre el código y la ley: creo que las mejores soluciones digitales nacen de entender ambos mundos.
-
-Me interesa el **desarrollo web**, la **inteligencia artificial** y la **ciberseguridad** — construyendo desde el frontend hasta los sistemas que protegen la información.
-
----
-
-```bash
-└─$ ls -la /skills/
-```
-
-<div align="center">
-
-### 🖥️ Desarrollo
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python&theme=dark&perline=6" />
-
-### 🗄️ Bases de datos & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,mysql&theme=dark&perline=6" />
-
-### 🔒 En exploración
-
-<img src="https://skillicons.dev/icons?i=kali,bash,vscode,figma&theme=dark&perline=6" />
+<img src="https://komarev.com/ghpvc/?username=HectorUwO&style=for-the-badge&color=7c3aed&label=VISITAS" />
+<img src="https://img.shields.io/badge/México-🇲🇽-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-a855f7?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </div>
 
 ---
 
-```bash
-└─$ neofetch --github-mode
+## 👤 Sobre mí
+
+Soy **Licenciado en Sistemas Computacionales** y actualmente estudio **Derecho en la UNAM**, además de contar con formación como **TSU en Seguridad Pública y Ciencias Forenses**. Trabajo como **desarrollador web** y me apasiona la **investigación** en tecnología, ciberseguridad e inteligencia artificial.
+
+Vivo en la intersección entre el código y el derecho — creo que los mejores sistemas digitales se construyen entendiendo ambos mundos.
+
 ```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HectorUwO&show_icons=true&theme=merko&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=00ff88&border_radius=10&hide_border=false&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorUwO&layout=compact&theme=merko&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff&border_color=00ff88&border_radius=10&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HectorUwO&theme=merko&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&border=00ff88&dates=aaaaaa" />
-
-</div>
+  Licenciado en Sistemas  ██████████████████░░  90%
+  Derecho @ UNAM          ████████████░░░░░░░░  60%
+  Ciberseguridad          ███████████████░░░░░  75%
+  Desarrollo Web          ████████████████████  100%
+  Investigación           ██████████████████░░  90%
+```
 
 ---
 
-```bash
-└─$ cat /var/log/activity.log
-```
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorUwO&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8833&border_color=00ff88&radius=10" width="95%" />
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,python,flask&theme=dark&perline=8" />
 
-</div>
+### 🗄️ Bases de Datos & DevOps
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux&theme=dark&perline=6" />
 
----
-
-```bash
-└─$ ping -c 4 hector.dev
-```
-
-<div align="center">
-
-| Canal | Enlace |
-|-------|--------|
-| 🐙 GitHub | [@HectorUwO](https://github.com/HectorUwO) |
-| 📬 Email | *(próximamente)* |
-| 🌐 Portfolio | *(en construcción)* |
+### 🔐 Seguridad & Herramientas
+<img src="https://skillicons.dev/icons?i=kali,bash,visualstudio,vscode&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-```bash
-└─$ fortune | cowsay
-```
+## 📊 GitHub Stats
 
-```
- _____________________________________________
-/ "El mejor firewall es el conocimiento.      \
-\ Conoce la ley, conoce el código."           /
- ---------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HectorUwO&show_icons=true&bg_color=0d001a&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&border_color=7c3aed&border_radius=12&count_private=true&rank_icon=github&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorUwO&layout=compact&bg_color=0d001a&title_color=a855f7&text_color=e9d5ff&border_color=7c3aed&border_radius=12&langs_count=7" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HectorUwO&background=0d001a&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&border=7c3aed&dates=9ca3af&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff" />
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorUwO&bg_color=0d001a&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=7c3aed33&border_color=7c3aed&radius=12" width="95%" />
+</div>
+
+---
+
+## 🔬 Áreas de Investigación
+
+<div align="center">
+
+| 🛡️ Ciberseguridad | ⚖️ Derecho Digital | 🤖 Inteligencia Artificial | 🌐 Desarrollo Web |
+|:-----------------:|:------------------:|:-------------------------:|:-----------------:|
+| Kali Linux, análisis forense, pen testing | Derecho informático, protección de datos | IA aplicada, automatización | Full-stack, APIs, Laravel |
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-HectorUwO-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorUwO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hectoruwo.netlify.app-a855f7?style=for-the-badge&logo=netlify&logoColor=white)](https://hectoruwo.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-hectorcontact.calcium058%40slmail.me-c084fc?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hectorcontact.calcium058@slmail.me)
+
+</div>
 
 ---
 
 <div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff88,100:0d0d0d&section=footer&reversal=true" width="100%" />
-
-*"La justicia también corre en código."* — Héctor
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,100:1a0533&section=footer" width="100%" />
 </div>
