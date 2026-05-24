@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Héctor%20Medrano&fontSize=48&color=0:1a0533,100:7c3aed&fontColor=e9d5ff&animation=fadeIn&desc=Web%20Developer%20%7C%%20%7C%20Law%20%40%20UNAM&descSize=17&descAlignY=75&descFontColor=c084fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Héctor%20Medrano&fontSize=48&color=0:1a0533,100:7c3aed&fontColor=e9d5ff&animation=fadeIn&desc=Web%20Developer%20%20Law%20%40%20UNAM&descSize=17&descAlignY=75&descFontColor=c084fc" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Lic.+en+Sistemas+Computacionales;Estudiante+de+Derecho+%40+UNAM;Web+Developer;TSU+en+Seguridad+P%C3%BAblica+%26+Ciencias+Forenses;Apasionado+por+IA+y+Ciberseguridad" alt="Typing" />
 
