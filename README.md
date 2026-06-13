@@ -35,12 +35,6 @@ Soy **Licenciado en Sistemas Computacionales** y actualmente estudio **Derecho e
 
 </div>
 
-## 🏆 Trofeos
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HectorUwO&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7&title=-Reviews,-Issues" width="100%" />
-</div>
-
 ---
 
 ## 📈 Actividad
