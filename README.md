@@ -41,9 +41,9 @@ Soy **Licenciado en Sistemas Computacionales** y actualmente estudio **Derecho e
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorUwO&bg_color=0d001a&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Actividad%20en%20GitHub&title_color=e9d5ff" width="95%" />
+<img src="https://ghchart.rshah.org/7c3aed/HectorUwO" alt="Gráfica de contribuciones" width="95%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=HectorUwO&theme=dark&background=0d001a&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&currStreakNum=e9d5ff&sideNums=c084fc&sideLabels=e9d5ff&dates=a78bfa&stroke=7c3aed&border=7c3aed&hide_border=false" />
 
